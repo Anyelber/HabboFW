@@ -1,0 +1,38 @@
+[07-Jul-2022 22:05:00 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/cocahabb/public_html/configs/configs.php:12
+Stack trace:
+#0 /home3/cocahabb/public_html/configs/configs.php(12): PDO->__construct('mysql:host=loca...', 'cocahabb_user', 'Coca205080!')
+#1 /home3/cocahabb/public_html/ajax/time.php(2): include('/home3/cocahabb...')
+#2 {main}
+  thrown in /home3/cocahabb/public_html/configs/configs.php on line 12
+[07-Jul-2022 22:05:06 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/cocahabb/public_html/configs/configs.php:12
+Stack trace:
+#0 /home3/cocahabb/public_html/configs/configs.php(12): PDO->__construct('mysql:host=loca...', 'cocahabb_user', 'Coca205080!')
+#1 /home3/cocahabb/public_html/ajax/time.php(2): include('/home3/cocahabb...')
+#2 {main}
+  thrown in /home3/cocahabb/public_html/configs/configs.php on line 12
+[10-Jul-2022 23:07:14 America/Bogota] PHP Parse error:  syntax error, unexpected end of file in /home3/cocahabb/public_html/configs/functions.php on line 567
+[10-Jul-2022 23:07:14 America/Bogota] PHP Parse error:  syntax error, unexpected end of file in /home3/cocahabb/public_html/configs/functions.php on line 1474
+[12-Jul-2022 19:50:51 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/cocahabb/public_html/configs/configs.php:12
+Stack trace:
+#0 /home3/cocahabb/public_html/configs/configs.php(12): PDO->__construct('mysql:host=loca...', 'cocahabb_user', 'Coca205080!')
+#1 /home3/cocahabb/public_html/ajax/ascenso_comun.php(2): include('/home3/cocahabb...')
+#2 {main}
+  thrown in /home3/cocahabb/public_html/configs/configs.php on line 12
+[12-Jul-2022 19:50:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/cocahabb/public_html/configs/configs.php:12
+Stack trace:
+#0 /home3/cocahabb/public_html/configs/configs.php(12): PDO->__construct('mysql:host=loca...', 'cocahabb_user', 'Coca205080!')
+#1 /home3/cocahabb/public_html/ajax/ascenso_comun.php(2): include('/home3/cocahabb...')
+#2 {main}
+  thrown in /home3/cocahabb/public_html/configs/configs.php on line 12
+[12-Jul-2022 19:50:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/cocahabb/public_html/configs/configs.php:12
+Stack trace:
+#0 /home3/cocahabb/public_html/configs/configs.php(12): PDO->__construct('mysql:host=loca...', 'cocahabb_user', 'Coca205080!')
+#1 /home3/cocahabb/public_html/ajax/ascenso_comun.php(2): include('/home3/cocahabb...')
+#2 {main}
+  thrown in /home3/cocahabb/public_html/configs/configs.php on line 12
+[12-Jul-2022 19:50:58 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1040] Too many connections in /home3/cocahabb/public_html/configs/configs.php:12
+Stack trace:
+#0 /home3/cocahabb/public_html/configs/configs.php(12): PDO->__construct('mysql:host=loca...', 'cocahabb_user', 'Coca205080!')
+#1 /home3/cocahabb/public_html/ajax/ascenso_comun.php(2): include('/home3/cocahabb...')
+#2 {main}
+  thrown in /home3/cocahabb/public_html/configs/configs.php on line 12
